@@ -31,17 +31,17 @@ class ImageByteSpace {
 }
 ```
 
-![Snipaste_2023-02-06_09-56-38](D:\document\personage\blogs\JVM.assets\Snipaste_2023-02-06_09-56-38.png)
+![Snipaste_2023-02-06_09-56-38](https://peggy-note.oss-cn-hangzhou.aliyuncs.com/images/Snipaste_2023-02-06_09-56-38.png)
 
-![Snipaste_2023-02-06_09-53-52](D:\document\personage\blogs\JVM.assets\Snipaste_2023-02-06_09-53-52.png)
+![Snipaste_2023-02-06_09-53-52](https://peggy-note.oss-cn-hangzhou.aliyuncs.com/images/Snipaste_2023-02-06_09-53-52.png)
 
-![Snipaste_2023-02-06_09-55-57](D:\document\personage\blogs\JVM.assets\Snipaste_2023-02-06_09-55-57.png)
+![Snipaste_2023-02-06_09-55-57](https://peggy-note.oss-cn-hangzhou.aliyuncs.com/images/Snipaste_2023-02-06_09-55-57.png)
 
 - 设置堆空间的初始空间大小与最大空间大小以及显示堆空间的执行信息
 
   > -Xms5m -Xmx5m -XX:+PrintGCDetails
 
-![image-20230206103932070](D:\document\personage\blogs\JVM.assets\image-20230206103932070.png)
+![image-20230206103932070](https://peggy-note.oss-cn-hangzhou.aliyuncs.com/images/image-20230206103932070.png)
 
 ```java
 import java.util.ArrayList;
@@ -71,6 +71,6 @@ class ImageByteSpace {
 }
 ```
 
-![image-20230206104332067](D:\document\personage\blogs\JVM.assets\image-20230206104332067.png)
+![image-20230206104332067](https://peggy-note.oss-cn-hangzhou.aliyuncs.com/images/image-20230206104332067.png)
 
 可以看到的在前面的几次都是触发的为 YoungGen 回收之后的占用为 1024k —> 0k ，第一次触发 Full GC 的时候占用空间变化为 3287 K —> 1569 K ，第三次触发 Full GC 时占用的空间变化为 2938k —> 2017k 以及可回收的空间以及很少，随着字符串在堆中的不断产生，最终由于无法通过 Full GC 的回收来产生多余的空间，最终抛出 OutMemoryError 异常，JVM 停止。
