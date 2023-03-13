@@ -25,6 +25,10 @@
 ### Redis
 **[Redis 高级- 持久化 - AOF](https://github.com/Peggy-M/Bolgs/blob/master/%E3%80%90Redis%20%E9%AB%98%E7%BA%A7%E3%80%91-%20%E6%8C%81%E4%B9%85%E5%8C%96%20-%20AOF.md)**
 
+**[大话面试- Redis 篇-第一篇](https://github.com/Peggy-M/Bolgs/blob/master/%E3%80%90%E9%9D%A2%E5%90%91%E9%9D%A2%E8%AF%95%E5%BC%80%E5%8F%91%E3%80%91%E4%B9%8B%20Redis%E7%AF%87-%E7%AC%AC%E4%B8%80%E7%AB%A0.md)**
+
+**[Redis 高级- 持久化 - RDB](https://github.com/Peggy-M/Bolgs/blob/master/%E3%80%90Redis%20%E9%AB%98%E7%BA%A7%E3%80%91-%20%E6%8C%81%E4%B9%85%E5%8C%96.md)**
+
 ### 多线程与高并发
 **[多线程并发编程之美](https://github.com/Peggy-M/Bolgs/blob/master/%E7%BA%BF%E7%A8%8B%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E.md)**
 
