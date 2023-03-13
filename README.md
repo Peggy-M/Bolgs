@@ -1,12 +1,14 @@
 # 佩琪的博客
 ## 博客索引
-### JVM 
+### JVM
+
 **[JVM 内存解析](https://github.com/Peggy-M/Bolgs/blob/master/JVM.md)**
-**[]()**
 
 ### JavaSE 基础
 **[Java 中的值传递](https://github.com/Peggy-M/Bolgs/blob/master/Java%20%E4%B8%AD%E7%9A%84%E5%80%BC%E4%BC%A0%E9%80%92.md)**
+
 **[Tomcat 为什么要打破类加载机制](https://github.com/Peggy-M/Bolgs/blob/master/Tomcat%20%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%89%93%E7%A0%B4%E7%B1%BB%E5%8A%A0%E8%BD%BD%E6%9C%BA%E5%88%B6.md)**
+
 **[关于栈的存储结构与运行原理分析](https://github.com/Peggy-M/Bolgs/blob/master/%E5%85%B3%E4%BA%8E%E6%A0%88%E7%9A%84%E5%AD%98%E5%82%A8%E7%BB%93%E6%9E%84%E4%B8%8E%E8%BF%90%E8%A1%8C%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90.md)**
 
 ### Spring 
@@ -20,5 +22,7 @@
 **[【Redis 高级】- 持久化 - AOF](https://github.com/Peggy-M/Bolgs/blob/master/%E3%80%90Redis%20%E9%AB%98%E7%BA%A7%E3%80%91-%20%E6%8C%81%E4%B9%85%E5%8C%96%20-%20AOF.md)**
 
 ### 多线程与高并发
+**[多线程并发编程之美](https://github.com/Peggy-M/Bolgs/blob/master/%E7%BA%BF%E7%A8%8B%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E.md)**
+**[线程中wait的用法](https://github.com/Peggy-M/Bolgs/blob/master/%E7%BA%BF%E7%A8%8B%E4%B8%ADwait%E7%9A%84%E7%94%A8%E6%B3%95.md)**
 **[多线程并发编程之美](https://github.com/Peggy-M/Bolgs/blob/master/%E7%BA%BF%E7%A8%8B%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E.md)**
 
