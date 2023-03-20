@@ -4,6 +4,8 @@
 
 **[JVM 内存解析](https://github.com/Peggy-M/Bolgs/blob/master/JVM.md)**
 
+**[Class 加载的过程](https://github.com/Peggy-M/Bolgs/blob/master/Class%20%E5%8A%A0%E8%BD%BD%E7%9A%84%E8%BF%87%E7%A8%8B.md)**
+
 ### 🏢JavaSE 基础
 **[Java 中的值传递](https://github.com/Peggy-M/Bolgs/blob/master/Java%20%E4%B8%AD%E7%9A%84%E5%80%BC%E4%BC%A0%E9%80%92.md)**
 
