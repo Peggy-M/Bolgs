@@ -40,7 +40,11 @@
 
 **[关于那些你可能不知道的多线程与高并发](https://github.com/Peggy-M/Bolgs/blob/master/%E5%85%B3%E4%BA%8E%E9%82%A3%E4%BA%9B%E4%BD%A0%E5%8F%AF%E8%83%BD%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E5%A4%9A%E7%BA%BF%E7%A8%8B%E4%B8%8E%E9%AB%98%E5%B9%B6%E5%8F%91.md)**
 
+### ✒️ 左神算法
 
+**[随机数的玩法](https://github.com/Peggy-M/Bolgs/blob/master/%E7%99%BE%E5%A4%A9%E7%AE%97%E6%B3%95%20-%20%E9%9A%8F%E6%9C%BA%E6%95%B0%E7%9A%84%E7%8E%A9%E6%B3%95.md)**
 
+**[随机数概率推移](https://github.com/Peggy-M/Bolgs/blob/master/%E7%99%BE%E6%97%A5%E7%AE%97%E6%B3%95-%E9%9A%8F%E6%9C%BA%E6%95%B0%E6%A6%82%E7%8E%87%E6%8E%A8%E7%A7%BB.md)**
 
+**[对数器](https://github.com/Peggy-M/Bolgs/blob/master/%E3%80%90%E7%99%BE%E6%97%A5%E7%AE%97%E6%B3%95%E3%80%91-%20%E5%AF%B9%E6%95%B0%E5%99%A8.md)**
 
