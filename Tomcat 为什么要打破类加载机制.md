@@ -1,6 +1,6 @@
 # Tomcat 为什么要打破类加载机制
 
-![image-20230307123413109](Tomcat 为什么要打破类加载机制.assets/image-20230307123413109.png)
+![image-20230307123413109](https://peggy-note.oss-cn-hangzhou.aliyuncs.com/images/image-20230307123413109.png)
 
 对于 Tomcat 而言，它本身就是一个用 Java 实现的容器。
 
